@@ -1,5 +1,6 @@
-# waste-classification-Internshala-Internship-assignment-
-plastic, metal, paper, and glass  waste classification  Internshala Internship assignment 
+# waste-classification-Internshala-Internship-assignment- Given by SwacchAI Technologies Private Limted Ahmedabad, India
+
+Plastic, metal, paper, and glass  waste classification  Internshala Internship assignment 
 
 
 #Dataset URL
