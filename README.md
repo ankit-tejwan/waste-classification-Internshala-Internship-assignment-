@@ -9,3 +9,5 @@ Adam
 Adagrad
 SGD
 RMSProp
+Demo video URL
+https://drive.google.com/file/d/11KJmqvJo8u-8cjguwkg5NaRkqIUQ77oR/view?usp=sharing
