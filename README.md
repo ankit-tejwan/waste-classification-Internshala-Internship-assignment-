@@ -5,6 +5,8 @@ Plastic, metal, paper, and glass  waste classification  Internshala Internship a
 
 #Dataset URL
 https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
+# Code and Model
+https://1drv.ms/f/s!Ah1JhWCSWrwWhkknb1r47gasj7ih?e=glfT0N
 
 #OPtimizer used:
 Adam
